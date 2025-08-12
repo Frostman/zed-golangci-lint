@@ -1,10 +1,10 @@
 id = "golangci-lint"
 name = "golangci-lint"
 description = "golangci-lint support."
-version = "0.2.0"
+version = "42.2.0"
 schema_version = 1
 authors = ["Jordan Gregory <jordan@j4ng5y.dev>", "Joakim Engeset <joakim.engeset@gmail.com>"]
-repository = "https://github.com/zed-extensions/golangci-lint"
+repository = "https://github.com/Frostman/zed-golangci-lint"
 
 [language_servers.golangci-lint]
 name = "golangci-lint"

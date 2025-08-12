@@ -40,7 +40,7 @@ impl GolangciLintExtension {
             &zed::LanguageServerInstallationStatus::CheckingForUpdate,
         );
         let release = zed::latest_github_release(
-            "nametake/golangci-lint-langserver",
+            "Frostman/golangci-lint-langserver",
             GithubReleaseOptions {
                 require_assets: true,
                 pre_release: false,
